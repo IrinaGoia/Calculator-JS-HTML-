@@ -1,0 +1,48 @@
+@font-face {
+    font-family: segment;
+    src: url(segment.ttf);
+}
+.copyright{
+    margin: 10px 0 14px 0;
+}
+.ich{
+    font-size: 1.5rem;
+    padding: 5px 0 0 0px;
+}
+img{
+    margin-bottom: 5px;
+    margin-left: 5px;
+    width: 150px;
+    float: left;
+    border-radius: 5px;
+}
+
+.container {
+    text-align:center;
+	padding:20px 10px;
+	width:fit-content;
+    height:fit-content;
+	margin: 0 auto;
+    background:linear-gradient(to bottom, #b1dfe4 , #75ebf3);
+    
+}
+.num {
+    font-family: segment;
+	text-align: right;
+    width:328px;
+	height:50px;
+	float:inline-start ; 
+	font-size:24px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+.btn {
+    background:linear-gradient(to bottom, #8dcad9 , #145a6b);
+    color: white;
+	width:80px;
+	height:60px;
+	float: left;  
+	font-size:18px;
+    border-radius: 10px;
+}
